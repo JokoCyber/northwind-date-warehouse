@@ -10,6 +10,8 @@ Finally, the project involves loading data into the data warehouse using an SSIS
 ## Source and database
 
 Northwind is a widely used educational database created by Microsoft, designed to represent a small, fictional company's data, such as its customers, orders, products, and suppliers. It includes tables for employees, customers, orders, order details, products, suppliers, and more. This database serves as a practical and realistic example for demonstrating various database concepts, including data modeling.
+![](snapshot/source.jpg)
+
 
 ## Star Schema for the datawarehouse :
 
